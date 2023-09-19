@@ -1,3 +1,4 @@
+
 type estado = "Disponivel" | "Indisponivel";
 var db: Livros[] = [];
 
